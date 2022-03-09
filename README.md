@@ -10,7 +10,7 @@ Step 2: Clean Data
 	-Check for null values 
 	-Data types
 
-Step 3 :Step 3: Visualize Data
+Step 3 : Visualize Data
 
 	-Pie graph for column distribution 
 	-Bar graph for class distribution in columns
@@ -23,7 +23,7 @@ Step 4: Splitting Data into Training and Testing sets (including encoding of qua
 	-Creating dummy variables for qualitiative variables (dependent and independent)
 	-Stratified train-test split
 
-Step 5: Step 5 Determining Fraud vs.non fraud distribution with different models, and evaluating the accuracy
+Step 5: Determining Fraud vs.non fraud distribution with different models, and evaluating the accuracy
 	
 	-Import modules
 	-Evaluation functions 
