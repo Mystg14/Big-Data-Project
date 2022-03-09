@@ -173,7 +173,7 @@ print(y_train.shape)
 print(y_test.shape)
 
 
-#Step 5 Determining Fraud vs.non fraud distribution with svc, evaluating the accuracy
+#Step 5 Determining Fraud vs.non fraud distribution with SVC evaluating SVC model
 
 # first modelling
 # sklearn modules
