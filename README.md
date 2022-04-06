@@ -2,29 +2,32 @@
 Credit Card Fraud detection 
 
 Step 1: Uploading and reading Data
+	-Import packages 
 
-	-Import libraries
-
-Step 2: Clean Data
-	
+Step 2: Exploratory Data Analysis
+	-import data
 	-Check for null values 
 	-Data types
+	-statistical analysis
 
 Step 3 : Visualize Data
-
-	-Pie graph for column distribution 
 	-Bar graph for class distribution in columns
 	-Histogram for quantitative variables
 	-Check correlations
 
-Step 4: Splitting Data into Training and Testing sets (including encoding of qualitative variables)
-
-	-Encoding target variable
-	-Creating dummy variables for qualitiative variables (dependent and independent)
+Step 4: Data Preparation 
+	-remove unwanted data
+	-import packages 
 	-Stratified train-test split
-
-Step 5: Determining Fraud vs.non fraud distribution with different models, and evaluating the accuracy
+	-Encoding target variable
+	-Creating dummy variables (dependent and independent variables)
 	
+Step 5: Dealing with imbalanced dataset 
+	-Splitting Data into Training and Testing sets
+	-oversampling training set
+	
+Step 6: Classification Models and their performance metriics
 	-Import modules
-	-Evaluation functions 
-	-Evaluate model (SVC) 
+	-Evaluation models (KNN, SVC, DT, RFT, LR)
+	-Evaluate predictions with accuracy score and confusion matrix
+	-results 
