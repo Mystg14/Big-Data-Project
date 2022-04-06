@@ -19,7 +19,7 @@ Step 4: Data Preparation
 	-remove unwanted data
 	-import packages 
 	-Stratified train-test split
-	-Encoding target variable
+	-Encoding target variable and independent variables
 	-Creating dummy variables (dependent and independent variables)
 	
 Step 5: Dealing with imbalanced dataset 
